@@ -1,0 +1,8 @@
+matplotlib==3.2.2
+numpy==1.22.2
+opencv_python==4.5.5.62
+Pillow==9.1.1
+scikit_learn==1.1.1
+scipy==1.6.2
+tensorflow==2.7.0
+Python==3.8.8
